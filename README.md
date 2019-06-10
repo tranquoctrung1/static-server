@@ -14,6 +14,6 @@
 
 # Project maker: *Quốc Trung
 
-*Hướng dẫn chạy server:
+* Hướng dẫn chạy server:
 	* Dùng lệnh static-server
 #### Để thay đổi Port của static-server(Server tỉnh) thì dùng lệnh static-server -p <port number> và sau đó chạy bình thường
