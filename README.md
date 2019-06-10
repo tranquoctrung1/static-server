@@ -12,7 +12,7 @@
 																					   |  $$$$$$/
 																						\______/ 
 
-# Project maker: *Quốc Trung
+# Project maker: Quốc Trung
 
 * Hướng dẫn chạy server:
 	* Dùng lệnh static-server
